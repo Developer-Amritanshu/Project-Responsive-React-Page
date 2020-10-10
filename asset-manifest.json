@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Project-Responsive-React-Page/static/css/main.aa9b56c4.chunk.css",
+    "main.js": "/Project-Responsive-React-Page/static/js/main.751337e4.chunk.js",
+    "main.js.map": "/Project-Responsive-React-Page/static/js/main.751337e4.chunk.js.map",
+    "runtime-main.js": "/Project-Responsive-React-Page/static/js/runtime-main.8be8cd8c.js",
+    "runtime-main.js.map": "/Project-Responsive-React-Page/static/js/runtime-main.8be8cd8c.js.map",
+    "static/css/2.974c742c.chunk.css": "/Project-Responsive-React-Page/static/css/2.974c742c.chunk.css",
+    "static/js/2.63fe837a.chunk.js": "/Project-Responsive-React-Page/static/js/2.63fe837a.chunk.js",
+    "static/js/2.63fe837a.chunk.js.map": "/Project-Responsive-React-Page/static/js/2.63fe837a.chunk.js.map",
+    "index.html": "/Project-Responsive-React-Page/index.html",
+    "precache-manifest.acaa0331da18ab82bd27770363e8f837.js": "/Project-Responsive-React-Page/precache-manifest.acaa0331da18ab82bd27770363e8f837.js",
+    "service-worker.js": "/Project-Responsive-React-Page/service-worker.js",
+    "static/css/2.974c742c.chunk.css.map": "/Project-Responsive-React-Page/static/css/2.974c742c.chunk.css.map",
+    "static/css/main.aa9b56c4.chunk.css.map": "/Project-Responsive-React-Page/static/css/main.aa9b56c4.chunk.css.map",
+    "static/js/2.63fe837a.chunk.js.LICENSE.txt": "/Project-Responsive-React-Page/static/js/2.63fe837a.chunk.js.LICENSE.txt",
+    "static/media/img2.svg": "/Project-Responsive-React-Page/static/media/img2.e981619f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8be8cd8c.js",
+    "static/css/2.974c742c.chunk.css",
+    "static/js/2.63fe837a.chunk.js",
+    "static/css/main.aa9b56c4.chunk.css",
+    "static/js/main.751337e4.chunk.js"
+  ]
+}
